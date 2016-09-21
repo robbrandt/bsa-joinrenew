@@ -1,0 +1,37 @@
+{*
+ +--------------------------------------------------------------------+
+ | CiviCRM version 4.4                                                |
+ +--------------------------------------------------------------------+
+ | Copyright CiviCRM LLC (c) 2004-2013                                |
+ +--------------------------------------------------------------------+
+ | This file is a part of CiviCRM.                                    |
+ |                                                                    |
+ | CiviCRM is free software; you can copy, modify, and distribute it  |
+ | under the terms of the GNU Affero General Public License           |
+ | Version 3, 19 November 2007 and the CiviCRM Licensing Exception.   |
+ |                                                                    |
+ | CiviCRM is distributed in the hope that it will be useful, but     |
+ | WITHOUT ANY WARRANTY; without even the implied warranty of         |
+ | MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.               |
+ | See the GNU Affero General Public License for more details.        |
+ |                                                                    |
+ | You should have received a copy of the GNU Affero General Public   |
+ | License and the CiviCRM Licensing Exception along                  |
+ | with this program; if not, contact CiviCRM LLC                     |
+ | at info[AT]civicrm[DOT]org. If you have questions about the        |
+ | GNU Affero General Public License or the licensing of CiviCRM,     |
+ | see the CiviCRM license FAQ at http://civicrm.org/licensing        |
+ +--------------------------------------------------------------------+
+*}
+{htxt id="what-is-orcid-title"}
+  {ts}test What is ORCID?{/ts}
+{/htxt}
+{htxt id="what-is-orcid"}
+  <p>
+    {ts}An ORCID iD is a nonproprietary alphanumeric code that uniquely identifies an academic author. It is a 16-digit code, in the format: 0000-0000-0000-000X. Publishers use it to unambiguously attribute any published work to the correct authors.{/ts}
+  </p>
+  <br />
+  <p>
+    {ts}ORCID is a not-for-profit association of publishers and academic organizations that maintains the central registry of these personal identifiers (ORCID iDs) and associated public profiles for authors in academic publishing. Please visit http://orcid.org/ for more information.{/ts}
+  </p>
+{/htxt}

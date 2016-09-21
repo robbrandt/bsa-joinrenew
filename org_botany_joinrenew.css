@@ -1,0 +1,119 @@
+.crm-not-you-message {
+	display: none;
+}
+#priceset legend,.custom_post_profile-group fieldset legend,.custom_pre_profile-group fieldset legend {
+    display: none;
+}
+
+#priceset fieldset,.custom_post_profile-group fieldset,.custom_pre_profile-group fieldset {
+    border: 0px;
+}
+
+span.DonationAmountSign {
+
+}
+
+#priceset div.BSA_Endowment_Other_Amount-section {
+    display: none;
+}
+
+#price_69 {
+    cursor: auto !important;
+}
+
+div.GiftMembership:first-of-type {
+    border-top: 1px solid #ccc;
+}
+
+div.GiftMembership {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-top-width: 0px;
+    margin-left: 100px;
+}
+div.OddGift {
+    background: #eee;
+    border-bottom: 1px solid #ccc;
+}
+
+#CopyAddressText {
+    text-decoration: none;
+    cursor: pointer;
+    color: #2786c2;
+}
+#CopyAddressText:hover {
+    text-decoration: underline;
+}
+
+#CopySAddressText {
+    text-decoration: none;
+    cursor: pointer;
+    color: #2786c2;
+}
+#CopySAddressText:hover {
+    text-decoration: underline;
+}
+
+#CopyBAddressText {
+    text-decoration: none;
+    cursor: pointer;
+    color: #2786c2;
+}
+#CopyBAddressText:hover {
+    text-decoration: underline;
+}
+
+div.GeneralGiftOpportunities .label {
+	min-width: 67%;
+	padding-right: 10px;
+	margin-top: 10px;
+}
+
+div.GeneralGiftOpportunities .crm-section {
+	width: 50%;
+	height: 50px;
+	float: left;
+}
+
+div.GeneralGiftOpportunities .content {
+	white-space: nowrap;
+}
+
+div.AwardSupport .label {
+	min-width: 67%;
+	padding-right: 10px;
+	margin-top: 10px;
+}
+
+div.AwardSupport .crm-section {
+	width: 50%;
+	height: 50px;
+	float: left;
+}
+
+div.AwardSupport .content {
+	white-space: nowrap;
+}
+
+div.StudentAwardFunds .label {
+	min-width: 67%;
+	padding-right: 10px;
+	margin-top: 10px;
+}
+
+div.StudentAwardFunds .crm-section {
+	width: 50%;
+	height: 50px;
+	float: left;
+}
+
+div.StudentAwardFunds .content {
+	white-space: nowrap;
+}
+
+.crm-container fieldset.crm-profile-id-60 {
+    border: 0px;
+}
+.crm-container fieldset.crm-profile-id-60 legend {
+    display: none;
+}
